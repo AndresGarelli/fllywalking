@@ -1,4 +1,4 @@
-# flywalking
+# Flywalking
 Scripts to monitor fly walking behavior in Raspberry Pi
 
 ## Brief description of the script to acquire images
