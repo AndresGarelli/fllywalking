@@ -1,5 +1,6 @@
+![20231019_19-54](https://github.com/user-attachments/assets/bd21c598-3d51-43dd-ba5c-56826bb65235)
 
-# Flywalking![20231019_19-54](https://github.com/user-attachments/assets/a21ae641-de3c-4fee-bcee-1187ec0562ad)
+# Flywalking
 
 Scripts to monitor fly walking behavior in Raspberry Pi
 
