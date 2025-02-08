@@ -1,4 +1,6 @@
-# Flywalking
+
+# Flywalking![20231019_19-54](https://github.com/user-attachments/assets/a21ae641-de3c-4fee-bcee-1187ec0562ad)
+
 Scripts to monitor fly walking behavior in Raspberry Pi
 
 ## Brief description of the script to acquire images
